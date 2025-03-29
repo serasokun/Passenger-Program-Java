@@ -8,8 +8,7 @@ public class Main {
 
         int numberOfGroupes;
         System.out.println("pleas Enter the number of Groups " );
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
+      
         numberOfGroupes= input.nextInt();
 
         for(int groupeCounter=1; groupeCounter<=numberOfGroupes; groupeCounter++ ) {
